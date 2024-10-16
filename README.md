@@ -1,1 +1,1 @@
-### Esto es un Readme
+### Practica 6.1
